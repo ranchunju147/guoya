@@ -6,6 +6,7 @@ import json
 adict= {'username':'admin','password':'123456'}
 
 def dict_sel():
+
     print(adict['username'])
 def dict_updat():
     adict['username']='ld'
