@@ -18,11 +18,18 @@ def for_yangyang():
     for  love in  range(len(yanyan)) :
         print(love)
 def for_for():
-    for i in range(1,10):
+    # for i in range(1,10):
+    #
+    #     for l in range(1,i+1):
+    #           print('%s * %s = %s'%(i,l,i*l),end=('  '))
+    #     print('')
+    sum(0)
+    for b in range(1,101):
+        if b % 2 ==1:
+            sum=sum+b
+    print(sum)
 
-        for l in range(1,i+1):
-              print('%s * %s = %s'%(i,l,i*l),end=('  '))
-        print('')
+
 
 
         # print('你好')
