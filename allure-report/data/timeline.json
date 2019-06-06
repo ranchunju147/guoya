@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "SKY-20190118CFO",
+    "children" : [ {
+      "name" : "5948-MainThread",
+      "children" : [ {
+        "name" : "test_order_add",
+        "uid" : "ec49a9aaf14609db",
+        "parentUid" : "3fd2511cb868fbb7b59a93e1ff291d95",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559550215275,
+          "stop" : 1559550215275,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_order_to_wh",
+        "uid" : "a4990d795de0158b",
+        "parentUid" : "3fd2511cb868fbb7b59a93e1ff291d95",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559550215279,
+          "stop" : 1559550215279,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3fd2511cb868fbb7b59a93e1ff291d95"
+    } ],
+    "uid" : "15497e7c7d7c0c74defde4913ddd08a5"
+  } ]
+}

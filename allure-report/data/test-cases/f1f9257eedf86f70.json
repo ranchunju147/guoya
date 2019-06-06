@@ -1,0 +1,59 @@
+{
+  "uid" : "f1f9257eedf86f70",
+  "name" : "test_order_to_wh",
+  "fullName" : "day04.test_test.Test_order#test_order_to_wh",
+  "historyId" : "7ec64199d368a6a0b76d9513ffdb0e2a",
+  "time" : {
+    "start" : 1559550116677,
+    "stop" : 1559550116677,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "订单模块"
+  }, {
+    "name" : "story",
+    "value" : "订单发货"
+  }, {
+    "name" : "parentSuite",
+    "value" : "day04"
+  }, {
+    "name" : "suite",
+    "value" : "test_test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_order"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190118CFO"
+  }, {
+    "name" : "thread",
+    "value" : "5372-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "day04.test_test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1f9257eedf86f70.json",
+  "parameterValues" : [ ]
+}

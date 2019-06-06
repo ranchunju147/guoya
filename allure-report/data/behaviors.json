@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "订单模块",
+    "children" : [ {
+      "name" : "下订单",
+      "children" : [ {
+        "name" : "test_order_add",
+        "uid" : "ec49a9aaf14609db",
+        "parentUid" : "89ab6975caa06e442fd3b2ad6d895abe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559550215275,
+          "stop" : 1559550215275,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "89ab6975caa06e442fd3b2ad6d895abe"
+    }, {
+      "name" : "订单发货",
+      "children" : [ {
+        "name" : "test_order_to_wh",
+        "uid" : "a4990d795de0158b",
+        "parentUid" : "ee265fa18157e73057a493a59f422863",
+        "status" : "passed",
+        "time" : {
+          "start" : 1559550215279,
+          "stop" : 1559550215279,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ee265fa18157e73057a493a59f422863"
+    } ],
+    "uid" : "48ce8ab56fd87d7641d329eaf86d9e3f"
+  } ]
+}
